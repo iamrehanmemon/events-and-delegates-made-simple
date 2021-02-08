@@ -1,0 +1,7 @@
+Events are a mechanism for communications between objects
+Used in building Loosely Coupled Applications.
+Helps Extending The applications.
+
+
+Delegates is a agreement between publisher and subscriber.
+and it determines the signature of an event handler method in subscriber.

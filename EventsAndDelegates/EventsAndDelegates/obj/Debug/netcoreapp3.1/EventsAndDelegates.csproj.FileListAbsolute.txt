@@ -1,0 +1,16 @@
+E:\Capgemini\Azure Training\Events & Delegates made Simple\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.exe
+E:\Capgemini\Azure Training\Events & Delegates made Simple\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.deps.json
+E:\Capgemini\Azure Training\Events & Delegates made Simple\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.runtimeconfig.json
+E:\Capgemini\Azure Training\Events & Delegates made Simple\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.runtimeconfig.dev.json
+E:\Capgemini\Azure Training\Events & Delegates made Simple\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.dll
+E:\Capgemini\Azure Training\Events & Delegates made Simple\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.pdb
+E:\Capgemini\Azure Training\Events & Delegates made Simple\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+E:\Capgemini\Azure Training\Events & Delegates made Simple\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+E:\Capgemini\Azure Training\Events & Delegates made Simple\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.csprojAssemblyReference.cache
+E:\Capgemini\Azure Training\Events & Delegates made Simple\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.AssemblyInfoInputs.cache
+E:\Capgemini\Azure Training\Events & Delegates made Simple\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.AssemblyInfo.cs
+E:\Capgemini\Azure Training\Events & Delegates made Simple\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.csproj.CoreCompileInputs.cache
+E:\Capgemini\Azure Training\Events & Delegates made Simple\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.csproj.CopyComplete
+E:\Capgemini\Azure Training\Events & Delegates made Simple\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.dll
+E:\Capgemini\Azure Training\Events & Delegates made Simple\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.pdb
+E:\Capgemini\Azure Training\Events & Delegates made Simple\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.genruntimeconfig.cache

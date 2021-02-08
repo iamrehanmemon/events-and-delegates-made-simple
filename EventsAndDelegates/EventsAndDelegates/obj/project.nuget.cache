@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zLRuaz4+BpcZ6VOodQfjesbSE6UPatS8W0eyRsKEfyfk57RT3LbIH3RFg3XURqfEFiBgaiNjtuYnvzhaS/v9SQ==",
+  "success": true,
+  "projectFilePath": "E:\\Capgemini\\Azure Training\\Events & Delegates made Simple\\EventsAndDelegates\\EventsAndDelegates\\EventsAndDelegates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rizwan\\.nuget\\packages\\documentformat.openxml\\2.12.1\\documentformat.openxml.2.12.1.nupkg.sha512",
+    "C:\\Users\\Rizwan\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
